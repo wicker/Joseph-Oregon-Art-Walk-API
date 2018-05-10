@@ -1,0 +1,29 @@
+{
+  "name": "joseph-oregon-art-walk-api",
+  "version": "1.0.0",
+  "description": "API for the Main Street art walk in Joseph, Oregon",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wicker/Joseph-Oregon-Art-Walk-API.git"
+  },
+  "keywords": [
+    "api",
+    "art"
+  ],
+  "author": "Jenner Hanni <jenner@wickerbox.net>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/wicker/Joseph-Oregon-Art-Walk-API/issues"
+  },
+  "homepage": "https://github.com/wicker/Joseph-Oregon-Art-Walk-API#readme",
+  "dependencies": {
+    "clone": "^2.1.1",
+    "cors": "^2.8.4",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3"
+  }
+}
