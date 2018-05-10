@@ -6,4 +6,10 @@ Joseph, Oregon's main street features a full-size bronze sculpture on nearly eve
 
 No authorization header is needed at this time.
 
+## API Server
+
+To install and start the API server, run the following commands in this directory:
+
+- `npm install`
+- `node server`
 
