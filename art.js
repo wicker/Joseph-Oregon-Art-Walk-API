@@ -8,7 +8,7 @@ const defaultData = {
 		{
 			'artist': 'Ramon Parmenter',
 			'artistURL': 'http://josephoregon.com/ramon-parmenter',
-			  'location': 'In front of The Dog Spot',
+			  'location': 'in front of The Dog Spot',
 				'lat': 45.351490,
 				'lng': -117.229985,
 				'corner': '1st St and Main St',
@@ -23,7 +23,7 @@ const defaultData = {
 		{
 			'artist': 'Steve Parks',
 			'artistURL': 'http://josephoregon.com/steve-parks',
-			'location': 'In front of La Laguna',
+			'location': 'in front of La Laguna',
 				'lat': 45.357181,
 				'lng': -117.230046,
 				'corner': 'Maple St and Main St',
@@ -38,7 +38,7 @@ const defaultData = {
 		{
 			'artist': 'David Manual',
 			'artistURL': 'http://josephoregon.com/david-manual',
-			'location': 'In front of Red Horse Coffee Traders',
+			'location': 'in front of Red Horse Coffee Traders',
 				'lat': 45.355001,
 				'lng': -117.229807,
 				'corner': 'Pine St and Main St',
@@ -53,7 +53,7 @@ const defaultData = {
 		{
 			'artist': 'Dennis Jones',
 			'artistURL': 'http://josephoregon.com/dennis-jones',
-			'location': 'In front of Stewart Jones Designs',
+			'location': 'in front of Stewart Jones Designs',
 				'lat': 45.352337,
 				'lng': -117.229763,
 				'corner': 'Williams Ave and Main St',
@@ -68,7 +68,7 @@ const defaultData = {
 		{
 			'artist': 'Shelley S. Curtiss',
 			'artistURL': 'http://www.curtissstudios.com/',
-			'location': 'In front of To Zion',
+			'location': 'in front of To Zion',
 				'lat': 45.353454,
 				'lng': -117.229753,
 				'corner': 'West Joseph Ave and Main St',
@@ -83,7 +83,7 @@ const defaultData = {
 		{
 			'artist': 'J. Shirly Bothum',
 			'artistURL': 'http://josephoregon.com/j-shirly-bothum',
-			'location': 'In front of the Sports Corral',
+			'location': 'in front of the Sports Corral',
 				'lat': 45.355647,
 				'lng': -117.230054,
 				'corner': 'Pine St and Main St',
@@ -98,7 +98,7 @@ const defaultData = {
 		{
 			'artist': 'Austin Barton',
 			'artistURL': 'http://josephoregon.com/austin-barton',
-			'location': 'In front of the Post Office',
+			'location': 'in front of the Post Office',
 				'lat': 45.352677,
 				'lng': -117.230007,
 				'corner': 'McCully Ave and Main St',
@@ -113,7 +113,7 @@ const defaultData = {
 		{
 			'artist': 'Austin Barton',
 			'artistURL': 'http://josephoregon.com/austin-barton',
-			'location': "In front of Kelly's Gallery",
+			'location': "in front of Kelly's Gallery",
 				'lat': 45.354799,
 				'lng': -117.229582,
 				'corner': 'Pine St and Main St',
@@ -128,7 +128,7 @@ const defaultData = {
 		{
 			'artist': 'Austin Barton',
 			'artistURL': 'http://josephoregon.com/austin-barton',
-			'location': 'In front of BeeCrowBee',
+			'location': 'in front of BeeCrowBee',
 				'lat': 45.352328,
 				'lng': -117.229972,
 				'corner': 'McCully Ave and Main St',
@@ -143,7 +143,7 @@ const defaultData = {
 		{
 			'artist': 'Austin Barton',
 			'artistURL': 'http://josephoregon.com/austin-barton',
-			'location': 'In front of City Hall',
+			'location': 'in front of City Hall',
 				'lat': 45.353446,
 				'lng': -117.230010,
 				'corner': 'West Joseph and Main St',
@@ -158,7 +158,7 @@ const defaultData = {
 		{
 			'artist': 'Georgia Bunn',
 			'artistURL': 'http://www.valleybronze.com/georgia-bunn.html',
-			'location': 'Across the street from City Hall',
+			'location': 'across the street from City Hall',
 				'lat': 45.353318,
 				'lng': -117.230010,
 				'corner': 'West Joseph and Main St',
@@ -173,7 +173,7 @@ const defaultData = {
 		{
 			'artist': 'Rodd Ambroson',
 			'artistURL': 'http://www.roddambroson.com',
-			'location': 'In front of the Josephy Center',
+			'location': 'in front of the Josephy Center',
 				'lat': 45.356065,
 				'lng': -117.230065,
 				'corner': 'Alder St and Main St',
@@ -188,7 +188,7 @@ const defaultData = {
 		{
 			'artist': 'Rodd Ambroson',
 			'artistURL': 'http://www.roddambroson.com',
-			'location': 'In front of the Lamb Trading Company',
+			'location': 'in front of the Lamb Trading Company',
 				'lat': 45.353678,
 				'lng': -117.230027,
 				'corner': 'Joseph Ave and Main St',
@@ -203,7 +203,7 @@ const defaultData = {
 		{
 			'artist': 'Unknown',
 			'artistURL': '',
-			'location': 'In front of the Lamb Trading Company',
+			'location': 'in front of the Lamb Trading Company',
 				'lat': 45.353795,
 				'lng': -117.230070,
 				'corner': 'Joseph Ave and Main St',
@@ -218,7 +218,7 @@ const defaultData = {
 		{
 			'artist': 'Tim Norman',
 			'artistURL': 'http://www.timnormanarts.com/',
-			'location': 'In front of the Post Office',
+			'location': 'in front of the Post Office',
 				'lat': 45.352526,
 				'lng': -117.229996,
 				'corner': 'McCully Ave and Main St',
@@ -233,7 +233,7 @@ const defaultData = {
 		{
 			'artist': 'Walter Matia',
 			'artistURL': 'http://matia.com/recent-sculptures/',
-			'location': 'In front of Valley Bronze Gallery',
+			'location': 'in front of Valley Bronze Gallery',
 				'lat': 45.351498,
 				'lng': -117.229720,
 				'corner': '1st St and Main St',
