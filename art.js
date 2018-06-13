@@ -201,14 +201,14 @@ const defaultData = {
 			'arttype':'statue'
 		},
 		{
-			'artist': 'Unknown',
-			'artistURL': '',
+			'artist': 'Christopher Smith',
+			'artistURL': 'http://www.smithbronze.com/',
 			'location': 'in front of the Lamb Trading Company',
 			'lat': 45.353795,
 			'lng': -117.230070,
 			'corner': 'Joseph Ave and Main St',
 			'medium': 'bronze',
-			'title': 'Three leaping salmon',
+			'title': 'Three Leaping Salmon',
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
