@@ -8,7 +8,7 @@ const defaultData = {
 		{
 			'artist': 'Ramon Parmenter',
 			'artistURL': 'http://josephoregon.com/ramon-parmenter',
-        'location': 'In front of The Dog Spot',
+			  'location': 'In front of The Dog Spot',
 				'lat': '45.351490',
 				'lng': '-117.229985',
 				'corner': '1st St and Main St',
@@ -91,7 +91,7 @@ const defaultData = {
 		},
 		{
 			'artist': 'Austin Barton',
-      'artistURL': 'http://josephoregon.com/austin-barton',
+			'artistURL': 'http://josephoregon.com/austin-barton',
 			'location': 'In front of the Post Office',
 				'lat': '45.352677',
 				'lng': '-117.230007',
@@ -105,8 +105,8 @@ const defaultData = {
 		},
 		{
 			'artist': 'Austin Barton',
-      'artistURL': 'http://josephoregon.com/austin-barton',
-			'location': 'In front of Kelly's Gallery',
+			'artistURL': 'http://josephoregon.com/austin-barton',
+			'location': "In front of Kelly's Gallery",
 				'lat': '45.354799',
 				'lng': '-117.229582',
 				'corner': 'Pine St and Main St',
@@ -119,7 +119,7 @@ const defaultData = {
 		},
 		{
 			'artist': 'Austin Barton',
-      'artistURL': 'http://josephoregon.com/austin-barton',
+			'artistURL': 'http://josephoregon.com/austin-barton',
 			'location': 'In front of BeeCrowBee',
 				'lat': '45.352328',
 				'lng': '-117.229972',
@@ -133,7 +133,7 @@ const defaultData = {
 		},
 		{
 			'artist': 'Austin Barton',
-      'artistURL': 'http://josephoregon.com/austin-barton',
+			'artistURL': 'http://josephoregon.com/austin-barton',
 			'location': 'In front of City Hall',
 				'lat': '45.353446',
 				'lng': '-117.230010',
@@ -147,7 +147,7 @@ const defaultData = {
 		},
 		{
 			'artist': 'Georgia Bunn',
-      'artistURL': 'http://www.valleybronze.com/georgia-bunn.html',
+			'artistURL': 'http://www.valleybronze.com/georgia-bunn.html',
 			'location': 'Across the street from City Hall',
 				'lat': '45.353318',
 				'lng': '-117.230010',
@@ -161,7 +161,7 @@ const defaultData = {
 		},
 		{
 			'artist': 'Rodd Ambroson',
-      'artistURL': 'http://www.roddambroson.com',
+			'artistURL': 'http://www.roddambroson.com',
 			'location': 'In front of the Josephy Center',
 				'lat': '45.356065',
 				'lng': '-117.230065',
@@ -175,7 +175,7 @@ const defaultData = {
 		},
 		{
 			'artist': 'Rodd Ambroson',
-      'artistURL': 'http://www.roddambroson.com',
+			'artistURL': 'http://www.roddambroson.com',
 			'location': 'In front of the Lamb Trading Company',
 				'lat': '45.353678',
 				'lng': '-117.230027',
@@ -189,7 +189,7 @@ const defaultData = {
 		},
 		{
 			'artist': 'Unknown',
-      'artistURL': '',
+			'artistURL': '',
 			'location': 'In front of the Lamb Trading Company',
 				'lat': '45.353795',
 				'lng': '-117.230070',
@@ -203,7 +203,7 @@ const defaultData = {
 		},
 		{
 			'artist': 'Tim Norman',
-      'artistURL': 'http://www.timnormanarts.com/',
+			'artistURL': 'http://www.timnormanarts.com/',
 			'location': 'In front of the Post Office',
 				'lat': '45.352526',
 				'lng': '-117.229996',
@@ -217,7 +217,7 @@ const defaultData = {
 		},
 		{
 			'artist': 'Walter Matia',
-      'artistURL': 'http://matia.com/recent-sculptures/',
+			'artistURL': 'http://matia.com/recent-sculptures/',
 			'location': 'In front of Valley Bronze Gallery',
 				'lat': '45.351498',
 				'lng': '-117.229720',
