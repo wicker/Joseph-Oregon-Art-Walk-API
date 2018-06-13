@@ -17,7 +17,8 @@ const defaultData = {
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
-			'imgLicenseLink': ''
+			'imgLicenseLink': '',
+			'arttype':'statue'
 		},
 		{
 			'artist': 'Steve Parks',
@@ -31,7 +32,8 @@ const defaultData = {
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
-			'imgLicenseLink': ''
+			'imgLicenseLink': '',
+			'arttype':'statue'
 		},
 		{
 			'artist': 'David Manual',
@@ -45,7 +47,8 @@ const defaultData = {
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
-			'imgLicenseLink': ''
+			'imgLicenseLink': '',
+			'arttype':'statue'
 		},
 		{
 			'artist': 'Dennis Jones',
@@ -59,7 +62,8 @@ const defaultData = {
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
-			'imgLicenseLink': ''
+			'imgLicenseLink': '',
+			'arttype':'statue'
 		},
 		{
 			'artist': 'Shelley S. Curtiss',
@@ -73,7 +77,8 @@ const defaultData = {
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
-			'imgLicenseLink': ''
+			'imgLicenseLink': '',
+			'arttype':'statue'
 		},
 		{
 			'artist': 'J. Shirly Bothum',
@@ -87,7 +92,8 @@ const defaultData = {
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
-			'imgLicenseLink': ''
+			'imgLicenseLink': '',
+			'arttype':'statue'
 		},
 		{
 			'artist': 'Austin Barton',
@@ -101,7 +107,8 @@ const defaultData = {
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
-			'imgLicenseLink': ''
+			'imgLicenseLink': '',
+			'arttype':'statue'
 		},
 		{
 			'artist': 'Austin Barton',
@@ -115,7 +122,8 @@ const defaultData = {
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
-			'imgLicenseLink': ''
+			'imgLicenseLink': '',
+			'arttype':'statue'
 		},
 		{
 			'artist': 'Austin Barton',
@@ -129,7 +137,8 @@ const defaultData = {
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
-			'imgLicenseLink': ''
+			'imgLicenseLink': '',
+			'arttype':'statue'
 		},
 		{
 			'artist': 'Austin Barton',
@@ -143,7 +152,8 @@ const defaultData = {
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
-			'imgLicenseLink': ''
+			'imgLicenseLink': '',
+			'arttype':'statue'
 		},
 		{
 			'artist': 'Georgia Bunn',
@@ -157,7 +167,8 @@ const defaultData = {
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
-			'imgLicenseLink': ''
+			'imgLicenseLink': '',
+			'arttype':'statue'
 		},
 		{
 			'artist': 'Rodd Ambroson',
@@ -171,7 +182,8 @@ const defaultData = {
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
-			'imgLicenseLink': ''
+			'imgLicenseLink': '',
+			'arttype':'statue'
 		},
 		{
 			'artist': 'Rodd Ambroson',
@@ -185,7 +197,8 @@ const defaultData = {
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
-			'imgLicenseLink': ''
+			'imgLicenseLink': '',
+			'arttype':'statue'
 		},
 		{
 			'artist': 'Unknown',
@@ -199,7 +212,8 @@ const defaultData = {
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
-			'imgLicenseLink': ''
+			'imgLicenseLink': '',
+			'arttype':'statue'
 		},
 		{
 			'artist': 'Tim Norman',
@@ -213,7 +227,8 @@ const defaultData = {
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
-			'imgLicenseLink': ''
+			'imgLicenseLink': '',
+			'arttype':'statue'
 		},
 		{
 			'artist': 'Walter Matia',
@@ -227,7 +242,8 @@ const defaultData = {
 			'imgSrc': '',
 			'imgAttribution': '',
 			'imgLicense': '',
-			'imgLicenseLink': ''
+			'imgLicenseLink': '',
+			'arttype':'statue'
 		}
 	]
 }
