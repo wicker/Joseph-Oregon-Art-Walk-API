@@ -244,7 +244,55 @@ const defaultData = {
 			'imgLicense': '',
 			'imgLicenseLink': '',
 			'arttype':'statue'
-		}
+		},
+    {
+      'gallery': 'Aspen Grove Gallery',
+      'galleryURL': 'http://www.aspengrovegallery.com/',
+      'location': 'between Poplar and Maple Streets on Main St',
+      'lat':'45.357559',
+      'lng':'-117.229677',
+      'arttype': 'gallery'
+    },
+    {
+      'gallery': 'Josephy Center for Arts and Culture',
+      'galleryURL': 'http://josephy.org/',
+      'location': 'corner of Alder St and Main St',
+      'lat':'45.356047',
+      'lng':'-117.230117',
+      'arttype': 'gallery'
+    },
+    {
+      'gallery': 'Stewart Jones Designs',
+      'galleryURL': 'http://www.stewartjonesdesigns.com/',
+      'location': 'corner of Williams St and Main St',
+      'lat':'45.352335',
+      'lng':'-117.229735',
+      'arttype': 'gallery'
+    },
+    {
+      'gallery': 'Uptown Art',
+      'galleryURL': 'https://www.facebook.com/Missys-Uptown-Art-Framing-1696965287221856/',
+      'location': 'mid-block between 1st St and McCully Ave on Main St',
+      'lat':'45.351872',
+      'lng':'-117.229961',
+      'arttype': 'gallery'
+    },
+    {
+      'gallery': 'Phinney Gallery',
+      'galleryURL': 'http://www.phinneygallery.com/',
+      'location': 'mid-block between 1st St and McCully Ave on Main St',
+      'lat':'45.351673',
+      'lng':'-117.230045',
+      'arttype': 'gallery'
+    },
+    {
+      'gallery': 'Valley Bronze Gallery',
+      'galleryURL': 'http://www.valleybronze.com/',
+      'location': 'on the corner of 1st St and Main St',
+      'lat':'45.351517',
+      'lng':'-117.229620',
+      'arttype': 'gallery'
+    }
 	]
 }
 
