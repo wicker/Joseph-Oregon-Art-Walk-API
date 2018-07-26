@@ -14,10 +14,10 @@ const defaultData = {
 			'corner': '1st St and Main St',
 			'medium': 'bronze',
 			'title': 'Garden Walk',
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/garden-walk.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
@@ -29,10 +29,10 @@ const defaultData = {
 			'corner': 'Maple St and Main St',
 			'medium': 'bronze',
 			'title': 'Spirit of Joseph',
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/spirit-of-joseph.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
@@ -44,10 +44,10 @@ const defaultData = {
 			'corner': 'Pine St and Main St',
 			'medium': 'bronze',
 			'title': 'Rolling Thunder and Toma',
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/rolling-thunder-and-toma.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
@@ -59,10 +59,10 @@ const defaultData = {
 			'corner': 'Williams Ave and Main St',
 			'medium': 'bronze',
 			'title': 'Running Raiders',
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/running-raiders.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
@@ -74,10 +74,10 @@ const defaultData = {
 			'corner': 'West Joseph Ave and Main St',
 			'medium': 'bronze',
 			'title': "He Who Thinks He's Invisible",
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/thinks-hes-invisible.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
@@ -89,10 +89,10 @@ const defaultData = {
 			'corner': 'Pine St and Main St',
 			'medium': 'bronze',
 			'title': 'Tracking the Intruders',
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/tracking-the-intruders.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
@@ -104,10 +104,10 @@ const defaultData = {
 			'corner': 'McCully Ave and Main St',
 			'medium': 'bronze',
 			'title': 'The Sentinel',
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/sentinel.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
@@ -134,10 +134,10 @@ const defaultData = {
 			'corner': 'McCully Ave and Main St',
 			'medium': 'bronze',
 			'title': 'All-around Cowboy',
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/all-around-cowboy.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
@@ -149,10 +149,10 @@ const defaultData = {
 			'corner': 'West Joseph and Main St',
 			'medium': 'bronze',
 			'title': 'Attitude Adjustment',
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/attitude-adjustment.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
@@ -164,10 +164,10 @@ const defaultData = {
 			'corner': 'West Joseph and Main St',
 			'medium': 'bronze',
 			'title': 'Chief Joseph',
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/chief-joseph.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
@@ -179,10 +179,10 @@ const defaultData = {
 			'corner': 'Alder St and Main St',
 			'medium': 'bronze',
 			'title': 'In Her Care',
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/in-her-care.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
@@ -194,10 +194,10 @@ const defaultData = {
 			'corner': 'Joseph Ave and Main St',
 			'medium': 'bronze',
 			'title': 'Dignity',
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/dignity.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
@@ -209,10 +209,10 @@ const defaultData = {
 			'corner': 'McCully Ave and Main St',
 			'medium': 'bronze',
 			'title': 'Unknown',
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/matteson.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
@@ -224,10 +224,10 @@ const defaultData = {
 			'corner': 'Joseph Ave and Main St',
 			'medium': 'bronze',
 			'title': 'Three Leaping Salmon',
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/three-leaping-salmon.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
@@ -239,10 +239,10 @@ const defaultData = {
 			'corner': 'McCully Ave and Main St',
 			'medium': 'bronze',
 			'title': 'Heritage',
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/heritage.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
@@ -254,10 +254,10 @@ const defaultData = {
 			'corner': '1st St and Main St',
 			'medium': 'bronze',
 			'title': 'Whitetail Buck',
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/whitetail-buck.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
@@ -266,10 +266,10 @@ const defaultData = {
 			'location': 'between Poplar and Maple Streets on Main St',
 			'lat':45.357559,
 			'lng':-117.229677,
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/aspen-grove-gallery.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype': 'gallery'
 		},
 		{
@@ -278,10 +278,10 @@ const defaultData = {
 			'location': 'corner of Alder St and Main St',
 			'lat':45.356047,
 			'lng':-117.230117,
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/josephy-center.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype': 'gallery'
 		},
 		{
@@ -290,10 +290,10 @@ const defaultData = {
 			'location': 'corner of Williams St and Main St',
 			'lat':45.3522509,
 			'lng':-117.2297842,
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/stewart-jones.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype': 'gallery'
 		},
 		{
@@ -302,10 +302,10 @@ const defaultData = {
 			'location': 'mid-block between 1st St and McCully Ave on Main St',
 			'lat':45.351872,
 			'lng':-117.229961,
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/uptown-art.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype': 'gallery'
 		},
 		{
@@ -314,10 +314,10 @@ const defaultData = {
 			'location': 'mid-block between Pine St and Wallowa Ave on Main St',
 			'lat':45.3548799,
 			'lng':-117.2299242,
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/kellys-gallery.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype': 'gallery'
 		},
 		{
@@ -326,10 +326,10 @@ const defaultData = {
 			'location': 'mid-block between 1st St and McCully Ave on Main St',
 			'lat':45.351673,
 			'lng':-117.230045,
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/phinney-gallery.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype': 'gallery'
 		},
 		{
@@ -338,10 +338,10 @@ const defaultData = {
 			'location': 'on the corner of 1st St and Main St',
 			'lat':45.351517,
 			'lng':-117.229620,
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/valley-bronze.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype': 'gallery'
 		}
 	]
