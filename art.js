@@ -119,10 +119,10 @@ const defaultData = {
 			'corner': 'Pine St and Main St',
 			'medium': 'bronze',
 			'title': 'Baby Steps',
-			'imgSrc': '',
-			'imgAttribution': '',
-			'imgLicense': '',
-			'imgLicenseLink': '',
+			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/baby-steps.jpg',
+			'imgAttribution': 'Jenner Hanni',
+			'imgLicense': 'CC BY 2.0',
+			'imgLicenseLink': 'https://creativecommons.org/licenses/by/2.0/',
 			'arttype':'statue'
 		},
 		{
