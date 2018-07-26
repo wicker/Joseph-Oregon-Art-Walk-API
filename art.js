@@ -309,7 +309,7 @@ const defaultData = {
 			'arttype': 'gallery'
 		},
 		{
-			'gallery': 'Kelly's Gallery',
+			'gallery': "Kelly's Gallery",
 			'galleryURL': 'http://www.kellysgalleryatjoseph.com/',
 			'location': 'mid-block between Pine St and Wallowa Ave on Main St',
 			'lat':45.3548799,
