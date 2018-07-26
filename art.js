@@ -201,6 +201,21 @@ const defaultData = {
 			'arttype':'statue'
 		},
 		{
+			'artist': 'Matteson',
+			'artistURL': '#',
+			'location': 'between Real Estate Associates and the Maxville Heritage Center',
+			'lat': 45.3528389,
+			'lng': -117.2306992,
+			'corner': 'McCully Ave and Main St',
+			'medium': 'bronze',
+			'title': 'Unknown',
+			'imgSrc': '',
+			'imgAttribution': '',
+			'imgLicense': '',
+			'imgLicenseLink': '',
+			'arttype':'statue'
+		},
+		{
 			'artist': 'Christopher Smith',
 			'artistURL': 'http://www.smithbronze.com/',
 			'location': 'in front of the Lamb Trading Company',
@@ -251,6 +266,10 @@ const defaultData = {
 			'location': 'between Poplar and Maple Streets on Main St',
 			'lat':45.357559,
 			'lng':-117.229677,
+			'imgSrc': '',
+			'imgAttribution': '',
+			'imgLicense': '',
+			'imgLicenseLink': '',
 			'arttype': 'gallery'
 		},
 		{
@@ -259,14 +278,22 @@ const defaultData = {
 			'location': 'corner of Alder St and Main St',
 			'lat':45.356047,
 			'lng':-117.230117,
+			'imgSrc': '',
+			'imgAttribution': '',
+			'imgLicense': '',
+			'imgLicenseLink': '',
 			'arttype': 'gallery'
 		},
 		{
 			'gallery': 'Stewart Jones Designs',
 			'galleryURL': 'http://www.stewartjonesdesigns.com/',
 			'location': 'corner of Williams St and Main St',
-			'lat':45.352335,
-			'lng':-117.229735,
+			'lat':45.3522509,
+			'lng':-117.2297842,
+			'imgSrc': '',
+			'imgAttribution': '',
+			'imgLicense': '',
+			'imgLicenseLink': '',
 			'arttype': 'gallery'
 		},
 		{
@@ -275,6 +302,22 @@ const defaultData = {
 			'location': 'mid-block between 1st St and McCully Ave on Main St',
 			'lat':45.351872,
 			'lng':-117.229961,
+			'imgSrc': '',
+			'imgAttribution': '',
+			'imgLicense': '',
+			'imgLicenseLink': '',
+			'arttype': 'gallery'
+		},
+		{
+			'gallery': 'Kelly's Gallery',
+			'galleryURL': 'http://www.kellysgalleryatjoseph.com/',
+			'location': 'mid-block between Pine St and Wallowa Ave on Main St',
+			'lat':45.3548799,
+			'lng':-117.2299242,
+			'imgSrc': '',
+			'imgAttribution': '',
+			'imgLicense': '',
+			'imgLicenseLink': '',
 			'arttype': 'gallery'
 		},
 		{
@@ -283,6 +326,10 @@ const defaultData = {
 			'location': 'mid-block between 1st St and McCully Ave on Main St',
 			'lat':45.351673,
 			'lng':-117.230045,
+			'imgSrc': '',
+			'imgAttribution': '',
+			'imgLicense': '',
+			'imgLicenseLink': '',
 			'arttype': 'gallery'
 		},
 		{
@@ -291,6 +338,10 @@ const defaultData = {
 			'location': 'on the corner of 1st St and Main St',
 			'lat':45.351517,
 			'lng':-117.229620,
+			'imgSrc': '',
+			'imgAttribution': '',
+			'imgLicense': '',
+			'imgLicenseLink': '',
 			'arttype': 'gallery'
 		}
 	]
