@@ -133,7 +133,7 @@ const defaultData = {
 			'lng': -117.229972,
 			'corner': 'McCully Ave and Main St',
 			'medium': 'bronze',
-			'title': 'All-around Cowboy',
+			'title': 'All-Around Cowboy',
 			'imgSrc': 'https://raw.githubusercontent.com/wicker/Joseph-Oregon-Art-Walk-API/master/img/all-around-cowboy.jpg',
 			'imgAttribution': 'Jenner Hanni',
 			'imgLicense': 'CC BY 2.0',
